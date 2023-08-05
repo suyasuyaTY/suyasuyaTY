@@ -1,6 +1,9 @@
 - 東京工業大学工学院情報通信系B3(2021/4~)
-### Hi there 👋
 
+##今後やろうと思っているもの
+-個人サイトの作成
+-サーモンラン乱獲用のdiscordのbot開発
+-基本情報技術者の取得
 <!--
 **suyasuyaTY/suyasuyaTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
