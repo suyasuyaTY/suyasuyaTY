@@ -6,6 +6,7 @@
   - 工学院情報通信系(2021/04-2025/03)
 - 資格・受賞等
   - 2024年度東京科学大学優秀学生賞
+  - 応用情報技術者（2025 年度春季）
 - AtCoder
   - A: [![Rating](https://badgen.org/img/atcoder/suyasuyaTY/rating/algorithm?style=flat-square)](https://atcoder.jp/users/suyasuyaTY?contestType=algo)
   - H: [![Rating(Heuristic)](https://badgen.org/img/atcoder/suyasuyaTY/rating/heuristic?style=flat-square)](https://atcoder.jp/users/suyasuyaTY?contestType=heuristic)
