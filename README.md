@@ -7,9 +7,6 @@
 - 資格・受賞等
   - 2024年度東京科学大学優秀学生賞
   - 応用情報技術者（2025 年度春季）
-- AtCoder
-  - A: [![Rating](https://badgen.org/img/atcoder/suyasuyaTY/rating/algorithm?style=flat-square)](https://atcoder.jp/users/suyasuyaTY?contestType=algo)
-  - H: [![Rating(Heuristic)](https://badgen.org/img/atcoder/suyasuyaTY/rating/heuristic?style=flat-square)](https://atcoder.jp/users/suyasuyaTY?contestType=heuristic)
 - インターン
 
 # 趣味・好きなこと
@@ -23,4 +20,5 @@
 # 外部リンク
 - 個人サイト(作成中)
 - Twitter: [TY（@_TY1212_)](https://x.com/_TY1212_)
-- note: [TY☆彡(suyasuyaTY](https://note.com/suyasuya_ty)  
+- AtCoder: [suyasuyaTY](https://atcoder.jp/users/suyasuyaTY)
+- note: [TY☆彡(suyasuyaTY)](https://note.com/suyasuya_ty)  
