@@ -18,7 +18,7 @@
 - 料理
 
 # 外部リンク
-- 個人サイト(作成中)
-- Twitter: [TY（@_TY1212_)](https://x.com/_TY1212_)
+- 個人サイト: [suyasuyaTY.minna](https://suyasuyaty.vercel.app/)
+- Twitter: [TY（@suyasuyaTY)](https://x.com/suyasuyaTY)
 - AtCoder: [suyasuyaTY](https://atcoder.jp/users/suyasuyaTY)
 - note: [TY☆彡(suyasuyaTY)](https://note.com/suyasuya_ty)  
