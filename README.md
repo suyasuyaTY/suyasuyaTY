@@ -19,7 +19,7 @@
 - 料理
 
 # 外部リンク
-- 個人サイト: [suyasuyaTY.minna](https://suyasuyaty.vercel.app/)
+- 個人サイト: [suyasuyaty.github.io](https://suyasuyaty.github.io/)
 - Twitter: [TY（@suyasuyaTY)](https://x.com/suyasuyaTY)
 - AtCoder: [suyasuyaTY](https://atcoder.jp/users/suyasuyaTY)
 - note: [TY☆彡(suyasuyaTY)](https://note.com/suyasuya_ty)  
